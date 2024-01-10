@@ -4,12 +4,12 @@
 
 解压至某个文件夹，然后点击codeblocks.exe
 ![avatar](/picture/01_1.png)
-
+先不关联任何c文件
+ 	![avatar](/picture/01_3.png)
 打开后默认包含了GNU GCC Compiler 编译器，选择ok
 ![avatar](/picture/01_2.png)
 ## 2.【创建项目】
- 先不关联任何c文件
- 	![avatar](/picture/01_3.png)
+
   create a new project
 ![avatar](/picture/01_4.png)
   选择空项目 Empty project
@@ -44,9 +44,7 @@
 ## 3.运行
 
 点击运行按钮，查看运行结果
-<img data-src="https://download.yxybb.com/project/MZ/cafp/images/province/02/02/6.png">
-<img data-src="https://download.yxybb.com/project/MZ/cafp/images/province/02/02/6.png">
-
+![avatar](/picture/01_12.png)
 
 
 
